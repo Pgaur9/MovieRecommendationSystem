@@ -1,0 +1,21 @@
+body {
+    background-color: #222;
+    color: #fff;
+}
+.card {
+    background-color: #EEE;
+    color: #000;
+    margin-bottom: 20px;
+}
+.card-body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.card-img-top {
+    width: 100%;
+    height: auto;
+}
+.container {
+    margin-top: 50px;
+}
